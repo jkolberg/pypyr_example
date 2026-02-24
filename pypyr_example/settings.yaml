@@ -1,0 +1,5 @@
+steps:
+ - steps.load_data
+ - steps.normalize
+ - steps.round
+ - steps.save_output

@@ -1,0 +1,11 @@
+[project]
+name = "pypyr-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "iteround>=1.0.4",
+    "pandas>=3.0.1",
+    "pypyr>=5.9.1",
+]
